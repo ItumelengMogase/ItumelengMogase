@@ -2,12 +2,11 @@
 
 ### I'm Itumleneg 'Itu'. Based in Pretoria, South Africa 📍
 
-I am a former Data Analyst who focused on training machine learning models and building data projects 📝 to start my career in data engineering ⚙️
+Data Analyst who focused on training machine learning models.
 
-So far, I'm current completing a real time data pipeline for patient admissions and still learning the ropes and fundementals of data
-engineering.
 
-What I'm currently learning 🧠
+
+Currently 🧠
 
 | Programming | Visualisation | Cloud          | DevOps        | Databases  |
 | ----------- | ------------- | -------------- | --------------|------------|
