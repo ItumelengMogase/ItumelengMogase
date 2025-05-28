@@ -1,6 +1,6 @@
-### Hi there! Dumelang! 👋🏽
+### Hi there! 👋🏽
 
-### I'm Itumleneg 'Itu'. Based in Pretoria, South Africa 📍
+### I'm Itumleneg. Based in Pretoria, South Africa 📍
 
 Data Analyst who focused on training machine learning models.
 
